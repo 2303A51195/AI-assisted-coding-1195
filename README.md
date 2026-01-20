@@ -12,3 +12,7 @@ https://github.com/2303A51195/AI-assisted-coding-1195/blob/main/LAB%202.2.pdf
 
 LAB 2.5:
 https://github.com/2303A51195/AI-assisted-coding-1195/blob/main/assingment%202.5.pdf
+
+
+LAB 3.2:
+https://github.com/2303A51195/AI-assisted-coding-1195/blob/main/ASS%203.2.pdf
